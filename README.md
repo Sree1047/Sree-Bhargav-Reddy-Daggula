@@ -9,9 +9,6 @@
 <div align='center'>
   <img src="https://komarev.com/ghpvc/?username=chetannada&style=flat-square&color=blue" alt="Profile Views" />
 </div>
-<br/>
-<img src="./Assets/Banner v3.png" alt="Front End Developer Banner" />
-<br/>
 
 🔭 I’m currently working on React.js, Next.js and Material UI <img style="vertical-align: bottom" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Daily Coding" width="30" />
 
@@ -19,40 +16,30 @@
 
 🔎 I’m actively looking to collaborate on **Open source Project**
 
-💻 Portfolio Project **[Chetan Nada - Portfolio](https://chetannada.netlify.app/)**
+💻 Portfolio Project **[Sree Bhargav Reddy Daggula - Portfolio]([https://chetannada.netlify.app/](https://sreebhargavreddy.framer.website/))**
 
-💬 Ask me about **Frontend Development, MERN Full Stack Development, Data Structure and Algorithm**
+💬 Ask me about **Frontend Development, JAVA Full Stack Development**
 
 💗 Love to talk about **Research and Innovation!**
 
 ## 💪 Passionate about Competitive Coding
 
-- Solved 500+ DSA Problems at **[LeetCode](https://leetcode.com/chetannada/)** using Javascript and Typescript.
-- 5 Star in Problem solving at **[HackerRank](https://www.hackerrank.com/chetannada)**
+- Solved 500+ DSA Problems at **[LeetCode](https://leetcode.com/)** using Javascript.
+- 5 Star in Problem solving at **[HackerRank](https://www.hackerrank.com/)**
 
-## 🏆 Achievement
-
-- 1.9k+ Stars 🌟, 1k+ Forks & 20+ Contributors in **[Namaste-React](https://github.com/chetannada/Namaste-React)** Github Repository, It was **[Trending on Github Feb-2023](https://drive.google.com/file/d/1JsBAa-DXeGIvJ_xIaYjjZ5uc3z4XV8Tz/view)**
-- 100+ Stars 🌟contains in **[Javascript-Practice](https://github.com/chetannada/Javascript-Practice)** Github Repository for Leetcode Solution
-- Among the Top 100 **[GitHub Users By Public Contributions](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/india.md)** in India
-- Among the Top 300 **[GitHub Users by Followers](https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/india.md)** in India
-- Among the Top 1% & 25+ Service bookings completed at **[Topmate](https://topmate.io/chetannada)**
-- Dev Ranking (Brown Belt) at **[CodeGrepper](https://www.grepper.com/profile/chetan-nada)**
-- 85K+ Subscribers on Educational **[Youtube Channel](https://www.youtube.com/@ClickHow/about)**
-
-📫 Feel free to reach out if you have any opportunity that fits my background: **call2chetannada@gmail.com**
+📫 Feel free to reach out if you have any opportunity that fits my background: **dbhargav098@gmail.com**
 
 ## 🔰 Let's Connect:
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chetannada/)
-[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/chetannada)
-[![discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/916005177838956555)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:call2chetannada@gmail.com)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sree-bhargav-reddy-daggula/)
+[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+[![discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dbhargav098@gmail.com)
 
 ## ‍🎃 Coding Profile:
 
-[![leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.leetcode.com/chetannada)
-[![hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/chetannada)
+[![leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.leetcode.com/)
+[![hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/)
 
 ## ♨ Languages and Tools:
 
