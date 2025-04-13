@@ -24,8 +24,9 @@
 
 ## 🔰 Let's Connect:
 
-[![Behance](https://img.shields.io/badge/Behance-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.behance.net/sreebhargav)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sree-bhargav-reddy-daggula/)
+[![Behance](https://img.shields.io/badge/Behance-0077B6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.behance.net/sreebhargav)
+[![Dribbble](https://img.shields.io/badge/Dribbble-FFC0CB?style=for-the-badge&logo=linkedin&logoColor=white)](https://dribbble.com/Bhargav__)
+[![linkedin](https://img.shields.io/badge/LinkedIn-03045E?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sree-bhargav-reddy-daggula/)
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 [![discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dbhargav098@gmail.com)
