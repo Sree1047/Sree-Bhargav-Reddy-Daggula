@@ -2,18 +2,16 @@
 </h1>
 
 <h3 align='center'>
-  A passionate Frontend Developer from India <img style="vertical-align: sub" src="https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-india-free-png.png" alt="India Flag" width="25" />
+  UI/UX Designer && Frontend Developer<img style="vertical-align: sub" src="https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-india-free-png.png" alt="India Flag" width="25" />
 </h3>
 
 🔭 I’m currently working on React.js, Next.js and Material UI <img style="vertical-align: bottom" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Daily Coding" width="30" />
 
-🏫 I’m currently learning **JAVA Full Stack Development**
+🏫 I’m currently **UI/UX Designer** **JAVA Full Stack Development**
 
 🔎 I’m actively looking to collaborate on **Open source Project**
 
 💻 Portfolio Project **[Sree Bhargav Reddy Daggula - Portfolio]([https://chetannada.netlify.app/](https://sreebhargavreddy.framer.website/))**
-
-💬 Ask me about **Frontend Development, JAVA Full Stack Development**
 
 💗 Love to talk about **Research and Innovation!**
 
@@ -26,10 +24,12 @@
 
 ## 🔰 Let's Connect:
 
+[![Behance](https://img.shields.io/badge/Behance-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.behance.net/sreebhargav)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sree-bhargav-reddy-daggula/)
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 [![discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dbhargav098@gmail.com)
+
 
 ## ‍🎃 Coding Profile:
 
